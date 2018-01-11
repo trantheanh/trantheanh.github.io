@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am **Andrej Karpathy**, a PhD student at Stanford working on Deep Learning. My [academic website](http://cs.stanford.edu/people/karpathy/) has much more information.
+I am **Tran The Anh**, a common software engineer. This is the place I write down things I learned. And I want to prove, anyone could learn anything.
